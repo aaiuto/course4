@@ -1,0 +1,30 @@
+h1 {
+	margin: 0 0 15px;
+}
+h2 {
+	margin: 0 0 15px;
+}
+.navbar-brand {
+	height: 60px;
+}
+
+#navbar-full {
+	width:100%;
+}
+
+#navbar-full ul {
+	text-align: center;
+}
+
+#navbar-full hr {
+	border-top: 1px solid black;
+	width: 100%;
+}
+
+.row > div {
+	background-color: #ccc;
+	border-right: 10px solid #fff;
+	border-left: 10px solid #fff;
+	height: 700px;
+	/*padding: 0 15px 15px 15px;*/
+}
