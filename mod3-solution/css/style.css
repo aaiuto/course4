@@ -1,3 +1,8 @@
+.container-fluid {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
 .navbar-default {
 	background-color: white;
 }
@@ -25,8 +30,13 @@ h2 {
 }
 
 .row > div {
+	margin-bottom: 20px;
+}
+
+.menu-tile {
 	background-color: #ccc;
-	border-right: 10px solid #fff;
-	border-left: 10px solid #fff;
+	padding: 5px 10px;
 	height: 700px;
+	box-shadow: 10px 10px 5px #777;
+	border-radius: 20px;
 }
